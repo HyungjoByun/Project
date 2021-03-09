@@ -1,3 +1,3 @@
 # Project List
 
-[FasterRCNN]<HyungjoByun/Projects/FasterRCNN>
+[FasterRCNN]</FasterRCNN>
